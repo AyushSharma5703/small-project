@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(118, 170, 212);
+}
+h1 {
+    align-items: center;
+    font-family: "Vampiro", cursive;
+    font-weight: 500;
+    color: rgb(34, 109, 109);
+  }
+  
+  .para1 {
+    font-family: "Faster", cursive;
+    font-weight: 300;
+  }
+  .para2 {
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+  }
+  .para3 {
+    font-family: "Rajdhani", cursive;
+    font-weight: 300;
+  }
+  .para4 {
+    font-family: "Orbitron", cursive;
+    font-weight: 300;
+  }
+  .para5 {
+    font-family: "Molle", cursive;
+    font-weight: 300;
+  }
+  
